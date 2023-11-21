@@ -1,0 +1,127 @@
+INFO:root:Serverlessenv is initialized
+INFO:root:ServEnv_Base to be initialized for episode: 0
+INFO:root:Starting episode: 0
+INFO:root:CLOCK: 1.0: Action selected: 0 and 1
+INFO:root:CLOCK: 1.0 Calculating reward for previous step 0
+INFO:root:CLOCK: 1.0 step latency: 0
+INFO:root:CLOCK: 1.0 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.0 fn_failure_rate: 0
+INFO:root:CLOCK: 1.0: Action selected: 0 and 9
+INFO:root:CLOCK: 1.0 Calculating reward for previous step 1
+INFO:root:CLOCK: 1.0 step latency: 0
+INFO:root:CLOCK: 1.0 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.0 fn_failure_rate: 0
+INFO:root:CLOCK: 1.0  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.0 Step reward: -0.0
+INFO:root:CLOCK: 1.06: Action selected: 1 and 3
+INFO:root:CLOCK: 1.06 Calculating reward for previous step 2
+INFO:root:CLOCK: 1.06 step latency: 0
+INFO:root:CLOCK: 1.06 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.06 fn_failure_rate: 0
+INFO:root:CLOCK: 1.06  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.06 Step reward: -0.0
+INFO:root:CLOCK: 1.09: Action selected: 1 and 10
+INFO:root:CLOCK: 1.09 Calculating reward for previous step 3
+INFO:root:CLOCK: 1.09 step latency: 0
+INFO:root:CLOCK: 1.09 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.09 fn_failure_rate: 0
+INFO:root:CLOCK: 1.09  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.09 Step reward: -0.0
+INFO:root:CLOCK: 1.19: Action selected: 1 and 10
+INFO:root:CLOCK: 1.19 Calculating reward for previous step 4
+INFO:root:CLOCK: 1.19 step latency: 0
+INFO:root:CLOCK: 1.19 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.19 fn_failure_rate: 0
+INFO:root:CLOCK: 1.19  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.19 Step reward: -0.0
+INFO:root:CLOCK: 1.2: Action selected: 0 and 1
+INFO:root:CLOCK: 1.2 Calculating reward for previous step 5
+INFO:root:CLOCK: 1.2 step latency: 0
+INFO:root:CLOCK: 1.2 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.2 fn_failure_rate: 0
+INFO:root:CLOCK: 1.2  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.2 Step reward: -0.0
+INFO:root:CLOCK: 1.27: Action selected: 1 and 4
+INFO:root:CLOCK: 1.27 Calculating reward for previous step 6
+INFO:root:CLOCK: 1.27 step latency: 0
+INFO:root:CLOCK: 1.27 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.27 fn_failure_rate: 0
+INFO:root:CLOCK: 1.27  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.27 Step reward: -0.0
+INFO:root:CLOCK: 1.31: Action selected: 0 and 9
+INFO:root:CLOCK: 1.31 Calculating reward for previous step 7
+INFO:root:CLOCK: 1.31 step latency: 0
+INFO:root:CLOCK: 1.31 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.31 fn_failure_rate: 0
+INFO:root:CLOCK: 1.31  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.31 Step reward: -0.0
+INFO:root:CLOCK: 1.36: Action selected: 0 and 1
+INFO:root:CLOCK: 1.36 Calculating reward for previous step 8
+INFO:root:CLOCK: 1.36 step latency: 0
+INFO:root:CLOCK: 1.36 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.36 fn_failure_rate: 0
+INFO:root:CLOCK: 1.36  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.36 Step reward: -0.0
+INFO:root:CLOCK: 1.46: Action selected: 0 and 0
+INFO:root:CLOCK: 1.46 Calculating reward for previous step 9
+INFO:root:CLOCK: 1.46 step latency: 0
+INFO:root:CLOCK: 1.46 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.46 fn_failure_rate: 0
+INFO:root:CLOCK: 1.46  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.46 Step reward: -0.0
+INFO:root:CLOCK: 1.5: Action selected: 0 and 2
+INFO:root:CLOCK: 1.5 Calculating reward for previous step 10
+INFO:root:CLOCK: 1.5 step latency: 0
+INFO:root:CLOCK: 1.5 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.5 fn_failure_rate: 0
+INFO:root:CLOCK: 1.5  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.5 Step reward: -0.0
+INFO:root:CLOCK: 1.64: Action selected: 1 and 7
+INFO:root:CLOCK: 1.64 Calculating reward for previous step 11
+INFO:root:CLOCK: 1.64 step latency: 0
+INFO:root:CLOCK: 1.64 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.64 fn_failure_rate: 0
+INFO:root:CLOCK: 1.64  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.64 Step reward: -0.0
+INFO:root:CLOCK: 1.68: Action selected: 0 and 5
+INFO:root:CLOCK: 1.68 Calculating reward for previous step 12
+INFO:root:CLOCK: 1.68 step latency: 0
+INFO:root:CLOCK: 1.68 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.68 fn_failure_rate: 0
+INFO:root:CLOCK: 1.68  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.68 Step reward: -0.0
+INFO:root:CLOCK: 1.71: Action selected: 0 and 2
+INFO:root:CLOCK: 1.71 Calculating reward for previous step 13
+INFO:root:CLOCK: 1.71 step latency: 0
+INFO:root:CLOCK: 1.71 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.71 fn_failure_rate: 0
+INFO:root:CLOCK: 1.71  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.71 Step reward: -0.0
+INFO:root:CLOCK: 1.75: Action selected: 1 and 3
+INFO:root:CLOCK: 1.75 Calculating reward for previous step 14
+INFO:root:CLOCK: 1.75 step latency: 0
+INFO:root:CLOCK: 1.75 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.75 fn_failure_rate: 0
+INFO:root:CLOCK: 1.75  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.75 Step reward: -0.0
+INFO:root:CLOCK: 1.78: Action selected: 0 and 11
+INFO:root:CLOCK: 1.78 Calculating reward for previous step 15
+INFO:root:CLOCK: 1.78 step latency: 0
+INFO:root:CLOCK: 1.78 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.78 fn_failure_rate: 0
+INFO:root:CLOCK: 1.78  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.78 Step reward: -0.0
+INFO:root:CLOCK: 1.79: Action selected: 1 and 4
+INFO:root:CLOCK: 1.79 Calculating reward for previous step 16
+INFO:root:CLOCK: 1.79 step latency: 0
+INFO:root:CLOCK: 1.79 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.79 fn_failure_rate: 0
+INFO:root:CLOCK: 1.79  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.79 Step reward: -0.0
+INFO:root:CLOCK: 1.84: Action selected: 1 and 7
+INFO:root:CLOCK: 1.84 Calculating reward for previous step 17
+INFO:root:CLOCK: 1.84 step latency: 0
+INFO:root:CLOCK: 1.84 Cum ec2 vm_up_time_cost: 0.0 Cum serverless_fn_cost: 0.0
+INFO:root:CLOCK: 1.84 fn_failure_rate: 0
+INFO:root:CLOCK: 1.84  vm_up_time_cost diff for step: 0.0
+INFO:root:CLOCK: 1.84 Step reward: -0.0
